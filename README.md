@@ -8,6 +8,9 @@ The platform provides a seamless shopping experience with **secure authenticatio
 Users can explore products, manage shopping carts, and place secure orders with ease.  
 
 ---
+![TechHaveli](./th2.png)
+![TechHaveli](./th4.png)
+![TechHaveli](./th5.png)
 
 ## ✨ Key Features  
 - 👤 **User Authentication & Authorization** (JWT-based secure login/signup).  
@@ -19,6 +22,7 @@ Users can explore products, manage shopping carts, and place secure orders with 
 - 📱 **Responsive UI** for mobile and desktop compatibility.  
 - ⚡ Built on **MERN stack** with efficient state management.  
 
+![TechHaveli](./th3.png)
 ---
 
 ## 🛠️ Technologies  
@@ -27,6 +31,10 @@ Users can explore products, manage shopping carts, and place secure orders with 
 - **ExpressJS** – API Layer  
 - **MongoDB** – Database  
 - **Redux** – State Management  
-- **GitHub** – Version Control  
+- **GitHub** – Version Control
+
+- ## 🎥 Demo Video
+[Watch Demo Video](https://drive.google.com/file/d/1r6pe0wUgsEg1HMUJhzr-D-miqN4QJ5Lj/view?usp=sharing)
+
 
 ---  
